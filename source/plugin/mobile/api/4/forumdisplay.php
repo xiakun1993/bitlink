@@ -4,12 +4,13 @@
  *      [Discuz!] (C)2001-2099 Comsenz Inc.
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: forumdisplay.php 35024 2014-10-14 07:43:43Z nemohou $
+ *      $Id: forumdisplay.php 35214 2015-02-26 06:17:56Z nemohou $
  */
 if (!defined('IN_MOBILE_API')) {
 	exit('Access Denied');
 }
 
+// define('MOBILE_HIDE_STICKY', !isset($_GET['hidesticky']) ? 1 : $_GET['hidesticky']);
 
 $_GET['mod'] = 'forumdisplay';
 include_once 'forum.php';
@@ -22,6 +23,9 @@ class mobile_api {
 			$_GET['action'] = 'pwverify';
 		}
 		$_G['forum']['allowglobalstick'] = true;
+		if($_G['forum']['redirect']) {
+			mobile_core::result(mobile_core::variable(array('forum' => array('fid' => $_G['fid'], 'redirect' => $_G['forum']['redirect']))));
+		}
 	}
 
 	function output() {

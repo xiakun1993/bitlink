@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[nimba_replytime.plugin]]></item>
+	<item id="RevisionID"><![CDATA[49010]]></item>
+	<item id="SN"><![CDATA[2015040600POjI8zZm1w]]></item>
+	<item id="RevisionDateline"><![CDATA[1427853601]]></item>
+	<item id="Data">
+		<item id="/addon.inc.php"><![CDATA[eb16610b634d2a00152d5b1e51a589d6]]></item>
+		<item id="/discuz_plugin_nimba_replytime_SC_GBK.xml"><![CDATA[9fdca941d2f87246405a9fe1dcace2bd]]></item>
+		<item id="/discuz_plugin_nimba_replytime_SC_UTF8.xml"><![CDATA[c3007768df7cc28b65bdf76fbc0c758d]]></item>
+		<item id="/discuz_plugin_nimba_replytime_TC_BIG5.xml"><![CDATA[2ab558b56813696c55ccd3861300de38]]></item>
+		<item id="/discuz_plugin_nimba_replytime_TC_UTF8.xml"><![CDATA[0f37438a7d741801161256fbb29b76d2]]></item>
+		<item id="/hook.class.php"><![CDATA[d4f72b35b266ca0b7d4d1646bf24a09c]]></item>
+		<item id="/retime.inc.php"><![CDATA[5fe5f68445768ed30c6472016a36f175]]></item>
+		<item id="/template/mod.css"><![CDATA[599988bf04b0e4bf275183d2f19acaa1]]></item>
+		<item id="/template/retime.htm"><![CDATA[656994af9edab73313b84a0e747f1dbb]]></item>
+		<item id="/template/term.htm"><![CDATA[1a7293cfeb9b74fc0e3e869485a3b65b]]></item>
+	</item>
+</root>

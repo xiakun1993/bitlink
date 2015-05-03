@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[iplus_ppcount.plugin]]></item>
+	<item id="RevisionID"><![CDATA[40343]]></item>
+	<item id="SN"><![CDATA[2015040600ttNIwtRI1r]]></item>
+	<item id="RevisionDateline"><![CDATA[1409367601]]></item>
+	<item id="Data">
+		<item id="/discuz_plugin_iplus_ppcount_SC_GBK.xml"><![CDATA[5d85976a1cd6486433f7c77ea44816ea]]></item>
+		<item id="/discuz_plugin_iplus_ppcount_SC_UTF8.xml"><![CDATA[0aac99c28d6812e5c36533b9e965c78c]]></item>
+		<item id="/discuz_plugin_iplus_ppcount_TC_BIG5.xml"><![CDATA[298bda62073f6d9b909181d0d93cdd28]]></item>
+		<item id="/discuz_plugin_iplus_ppcount_TC_UTF8.xml"><![CDATA[0c188decda9ad4e8a1df634157ccaf11]]></item>
+		<item id="/hook.class.php"><![CDATA[3a415514edfca97dc05bb18654d720ec]]></item>
+		<item id="/install.php"><![CDATA[34a494752737e44c58145e4d80b58642]]></item>
+		<item id="/uninstall.php"><![CDATA[07ded632a184265d01775390e55b5632]]></item>
+	</item>
+</root>

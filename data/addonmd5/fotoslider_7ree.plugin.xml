@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[fotoslider_7ree.plugin]]></item>
+	<item id="RevisionID"><![CDATA[1847]]></item>
+	<item id="SN"><![CDATA[2015040600mj1utEcmSU]]></item>
+	<item id="RevisionDateline"><![CDATA[1369211551]]></item>
+	<item id="Data">
+		<item id="/css/slider_style_7ree.css"><![CDATA[13d3eafb419514a6a3622d1e0a99408b]]></item>
+		<item id="/discuz_plugin_fotoslider_7ree_SC_GBK.xml"><![CDATA[93c2e50b608cc5fe956f7d737a78c309]]></item>
+		<item id="/discuz_plugin_fotoslider_7ree_SC_UTF8.xml"><![CDATA[5779b93e67b7d34f4c747850204e1f89]]></item>
+		<item id="/discuz_plugin_fotoslider_7ree_TC_BIG5.xml"><![CDATA[ac6034ceb826518deb9d173b4ef108d8]]></item>
+		<item id="/discuz_plugin_fotoslider_7ree_TC_UTF8.xml"><![CDATA[9b029fac2c88dfef55232b9d6c6abee3]]></item>
+		<item id="/fotoslider_7ree.class.php"><![CDATA[49bd26ecb9b02e14c79e96a29ea017cf]]></item>
+		<item id="/image/1_big_7ree.png"><![CDATA[5b2963b138cabef86ca0b1cbb1398765]]></item>
+		<item id="/image/1_icon_7ree.png"><![CDATA[fdd12ee5eb07806be03b480daaba2723]]></item>
+		<item id="/image/2_big_7ree.png"><![CDATA[03837dcb892e0110e8af25d702102c1f]]></item>
+		<item id="/image/2_icon_7ree.png"><![CDATA[635a2a5824fb56946d55ddb2d01f4ed9]]></item>
+		<item id="/image/3_big_7ree.png"><![CDATA[7ee37b0086e90031969bce003007fd1f]]></item>
+		<item id="/image/3_icon_7ree.png"><![CDATA[87c8903fedebdf352114ba38037af3d4]]></item>
+		<item id="/image/4_big_7ree.png"><![CDATA[3f7637c02f4a9c82b5941b15c452f597]]></item>
+		<item id="/image/4_icon_7ree.png"><![CDATA[55e15864c8674845c0a73e9c252cb805]]></item>
+		<item id="/image/5_big_7ree.png"><![CDATA[c81b61325378840e91952b0759ee4394]]></item>
+		<item id="/image/5_icon_7ree.png"><![CDATA[5b849054763e74c3f59232951da54a71]]></item>
+		<item id="/image/system_7ree/transpbg_7ree.png"><![CDATA[346fd634dc6fd656232300275b4a26db]]></item>
+		<item id="/image/system_7ree/uparrow_icon_7ree.png"><![CDATA[2e98e98a9dcdeb0424966a32a8079120]]></item>
+		<item id="/js/coda-slider.1.1.1.pack.js"><![CDATA[98bc94eb727d954b38f5942e54cd944a]]></item>
+		<item id="/js/jquery-1.7.1.min.js"><![CDATA[2c57990a020cc3a35c4a603413d67a28]]></item>
+		<item id="/js/jquery-easing-1.3.pack.js"><![CDATA[def257dbb0ab805c4996fd8abb1a6b49]]></item>
+		<item id="/js/jquery-easing-compatibility.1.2.pack.js"><![CDATA[87d35de210a659569ee34536d9fe19cf]]></item>
+		<item id="/js/ycodaslider-2.0.pack.js"><![CDATA[c3c734524d835f2a2d2da880254e8fbf]]></item>
+		<item id="/more_7ree.inc.php"><![CDATA[ee22e5e7954899981e609e756d1773f2]]></item>
+		<item id="/template/fotoslider_7ree.htm"><![CDATA[d44b94ceffb6bda82445e73b0c3623b7]]></item>
+		<item id="/template/index.htm"><![CDATA[d41d8cd98f00b204e9800998ecf8427e]]></item>
+		<item id="/template/more_7ree.htm"><![CDATA[c72665d42ebafccd90d4dbc5ada7b4df]]></item>
+	</item>
+</root>

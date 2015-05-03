@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[damei_tan18.template]]></item>
+	<item id="RevisionID"><![CDATA[47604]]></item>
+	<item id="SN"><![CDATA[2015040518ueLz06zeuz]]></item>
+	<item id="RevisionDateline"><![CDATA[1423555201]]></item>
+	<item id="Data">
+		<item id="/common/common.css"><![CDATA[4976612a15de7843753e13e599b50550]]></item>
+		<item id="/common/extend_common.css"><![CDATA[1967597590d4ed653916bb82590cd5b6]]></item>
+		<item id="/common/extend_module.css"><![CDATA[5df7dfcbfeeacfc42df5cde8314cf8f9]]></item>
+		<item id="/common/header.htm"><![CDATA[ffa30374a718bb4e923ea720e34dc49a]]></item>
+		<item id="/common/pubsearchform.htm"><![CDATA[622f6e2a2b513ba4d5f49ec175ac2aa2]]></item>
+		<item id="/common/toptb.php"><![CDATA[2d76a7e55f31b8c2cf0f086ed6e64942]]></item>
+		<item id="/common/widthauto.css"><![CDATA[643496f727f703d8986e374fd194e681]]></item>
+		<item id="/discuz_style_damei_tan18.xml"><![CDATA[25ca0a845a07b25200d0cc1fa2835757]]></item>
+		<item id="/image/a1.png"><![CDATA[6d9235e7038ed6012d97e0a435a87f23]]></item>
+		<item id="/image/a2.png"><![CDATA[820d889bba8a92e162dbc8a4bbda358b]]></item>
+		<item id="/image/a3.png"><![CDATA[584938242d0994d8d5a6a40790b9efb8]]></item>
+		<item id="/image/a4.png"><![CDATA[1c3514603ca83881d8a5f74685b416e3]]></item>
+		<item id="/image/ads/ad1.jpg"><![CDATA[59d572fcfa4f94fb083bef0050832aa0]]></item>
+		<item id="/image/ads/ad2.jpg"><![CDATA[1b3385aef286bf6c71facb79f87bcfe9]]></item>
+		<item id="/image/ads/ad3.jpg"><![CDATA[a08752df1161078947d78b5bcfcb332d]]></item>
+		<item id="/image/ads/ad4.jpg"><![CDATA[a08752df1161078947d78b5bcfcb332d]]></item>
+		<item id="/image/arrow.gif"><![CDATA[e15e06144d70110b5e41713b104f017a]]></item>
+		<item id="/image/arw_d.gif"><![CDATA[84c80f6ff5928aa2a849fc60c52a69ac]]></item>
+		<item id="/image/arw_l.gif"><![CDATA[ff56bfa217f45b8d0948d159aa02b12a]]></item>
+		<item id="/image/arw_r.gif"><![CDATA[9c78185bd7a37edc626b9c2fdb62f480]]></item>
+		<item id="/image/bno.png"><![CDATA[0170be3f9b774d41b35ac468873c05df]]></item>
+		<item id="/image/collapsed_no.gif"><![CDATA[e66a838c6422f0e71d18a1d6d488d0a0]]></item>
+		<item id="/image/collapsed_yes.gif"><![CDATA[4b1084f003ff6ba627f76aa1e36b4d87]]></item>
+		<item id="/image/control_l.png"><![CDATA[9aa2bad21472663585059f366093da3a]]></item>
+		<item id="/image/control_r.png"><![CDATA[b56a0ae05fb54a190850bcfdf711f3e8]]></item>
+		<item id="/image/damei.png"><![CDATA[c63a42addcd5e5347210587cff84ec55]]></item>
+		<item id="/image/erwm.png"><![CDATA[ce74dc294c215742d4f2986543907022]]></item>
+		<item id="/image/gxicon.png"><![CDATA[440e30e7bfe4a6f1e7f9e11537bbdaee]]></item>
+		<item id="/image/image_s.gif"><![CDATA[9275b6ac3e9408c574913b9aa8b02f6c]]></item>
+		<item id="/image/inbk.png"><![CDATA[19b5b9f20e9c9ac49d007da2a0f709ff]]></item>
+		<item id="/image/kf.png"><![CDATA[6b6362449f00390f499545c107d70382]]></item>
+		<item id="/image/left.png"><![CDATA[629c85adb3f12971705483e3fdcca8c0]]></item>
+		<item id="/image/logo.png"><![CDATA[9bdfcb221e5b431b7b5e4d2a3526e5e2]]></item>
+		<item id="/image/ltleft.png"><![CDATA[f3be3baff1f69fdaec0363fb6d8015b7]]></item>
+		<item id="/image/ltright.png"><![CDATA[f615ee4dbaaa4d69360c97ee4e549e11]]></item>
+		<item id="/image/nv.js"><![CDATA[52a51d3cc6dafc0332e5406dd0ea38fa]]></item>
+		<item id="/image/nvbg.png"><![CDATA[cacb6943e627942b75cd5f8966500c59]]></item>
+		<item id="/image/nvicon.png"><![CDATA[ffb331d735bb90c520034262399080a9]]></item>
+		<item id="/image/right.png"><![CDATA[59893a42453a4ba57f26e823a963c862]]></item>
+		<item id="/image/ryht.png"><![CDATA[284959a7fd64d890d38bd83948c8f191]]></item>
+		<item id="/image/tabbg.png"><![CDATA[a0ebe4c74dc1c4530d051908cf266131]]></item>
+		<item id="/image/ttbg1.png"><![CDATA[c02074c2cd26cbef44fb69ffa7b85836]]></item>
+		<item id="/image/ttbg2.png"><![CDATA[ae92b4ae110a6e1040a76614f5f0f9ef]]></item>
+		<item id="/image/vlineb.png"><![CDATA[780407ad01285ea3489188a3dfeaf980]]></item>
+		<item id="/image/yhtlf.png"><![CDATA[a6327eb5e02b2bf51ee33679c96e5c58]]></item>
+		<item id="/preview.jpg"><![CDATA[06e0b89e4604873052313c897ccb43c5]]></item>
+		<item id="/preview_large.jpg"><![CDATA[b783c31082c7e4eea71233e42d65ba9b]]></item>
+	</item>
+</root>
