@@ -1,0 +1,8 @@
+{subtemplate common/header}
+<style id="diy_style" type="text/css">#portal_block_39 {  border:#ffffff !important;}</style>
+<style id="diy_style" type="text/css">#portal_block_39 {  border:#ffffff !important;}</style>
+<div id="ct" class="ct2 wp cl">
+		<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+		<!--[diy=diy2]--><div id="diy2" class="area"><div id="framesuDc75" class="xfs xfs_5 frame move-span cl frame-1"><div id="framesuDc75_left" class="column frame-1-c"><div id="framesuDc75_left_temp" class="move-span temp"></div><!--{block/39}--></div></div><div id="framey2PrY2" class="xfs xfs_5 frame move-span cl frame-1-1-1"><div class="title frame-title"><span class="titletext" style="font-size:18px;">ÎÒÒª¾èÔù</span></div><div id="framey2PrY2_left" class="column frame-1-1-1-l"><div id="framey2PrY2_left_temp" class="move-span temp"></div><!--{block/40}--></div><div id="framey2PrY2_center" class="column frame-1-1-1-c"><div id="framey2PrY2_center_temp" class="move-span temp"></div><!--{block/41}--></div><div id="framey2PrY2_right" class="column frame-1-1-1-r"><div id="framey2PrY2_right_temp" class="move-span temp"></div><!--{block/42}--></div></div></div><!--[/diy]-->
+</div>
+{subtemplate common/footer}

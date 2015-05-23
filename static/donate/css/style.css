@@ -1,0 +1,23 @@
+.text1{
+	color: #9900CC;
+	font-weight: bold;
+	font-size:2em;
+}
+.text2{
+	display: block;
+	line-height: 2em;
+	font-size: 1.5em;
+	margin: 10px 5px 30px 5px;
+}
+.text3{
+	display: block;
+	line-height: 2em;
+	font-size: 1.5em;
+	margin: 10px 5px 0px 5px;
+}
+.text4{
+	display: block;
+	line-height: 2em;
+	font-size: 1.44em;
+	margin: 0px 5px;
+}
