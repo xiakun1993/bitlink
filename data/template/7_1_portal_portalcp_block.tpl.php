@@ -1,10 +1,10 @@
 <?php if(!defined('IN_DISCUZ')) exit('Access Denied'); hookscriptoutput('portalcp_block');
 0
-|| checktplrefresh('./template/default/portal/portalcp_block.htm', './template/default/portal/portalcp_block_setting.htm', 1430378609, '1', './data/template/7_1_portal_portalcp_block.tpl.php', './template/default', 'portal/portalcp_block')
-|| checktplrefresh('./template/default/portal/portalcp_block.htm', './template/default/portal/portalcp_block_thumbsetting.htm', 1430378609, '1', './data/template/7_1_portal_portalcp_block.tpl.php', './template/default', 'portal/portalcp_block')
-|| checktplrefresh('./template/default/portal/portalcp_block.htm', './template/default/portal/portalcp_block_setting.htm', 1430378609, '1', './data/template/7_1_portal_portalcp_block.tpl.php', './template/default', 'portal/portalcp_block')
-|| checktplrefresh('./template/default/portal/portalcp_block.htm', './template/default/portal/portalcp_block_thumbsetting.htm', 1430378609, '1', './data/template/7_1_portal_portalcp_block.tpl.php', './template/default', 'portal/portalcp_block')
-|| checktplrefresh('./template/default/portal/portalcp_block.htm', './template/default/portal/portalcp_nav.htm', 1430378609, '1', './data/template/7_1_portal_portalcp_block.tpl.php', './template/default', 'portal/portalcp_block')
+|| checktplrefresh('./template/default/portal/portalcp_block.htm', './template/default/portal/portalcp_block_setting.htm', 1431791558, '1', './data/template/7_1_portal_portalcp_block.tpl.php', './template/default', 'portal/portalcp_block')
+|| checktplrefresh('./template/default/portal/portalcp_block.htm', './template/default/portal/portalcp_block_thumbsetting.htm', 1431791558, '1', './data/template/7_1_portal_portalcp_block.tpl.php', './template/default', 'portal/portalcp_block')
+|| checktplrefresh('./template/default/portal/portalcp_block.htm', './template/default/portal/portalcp_block_setting.htm', 1431791558, '1', './data/template/7_1_portal_portalcp_block.tpl.php', './template/default', 'portal/portalcp_block')
+|| checktplrefresh('./template/default/portal/portalcp_block.htm', './template/default/portal/portalcp_block_thumbsetting.htm', 1431791558, '1', './data/template/7_1_portal_portalcp_block.tpl.php', './template/default', 'portal/portalcp_block')
+|| checktplrefresh('./template/default/portal/portalcp_block.htm', './template/default/portal/portalcp_nav.htm', 1431791558, '1', './data/template/7_1_portal_portalcp_block.tpl.php', './template/default', 'portal/portalcp_block')
 ;?><?php include template('common/header'); if(!$_G['inajax'] && in_array($op, array('block', 'data', 'itemdata'))) { ?>
 <div id="pt" class="bm cl">
 <div class="z">

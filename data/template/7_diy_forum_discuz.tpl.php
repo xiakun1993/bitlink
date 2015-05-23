@@ -22,7 +22,7 @@ block_get('21,14,15');?><?php include template('common/header'); ?><div id="pt" 
 
 <?php if(empty($gid)) { ?><?php echo adshow("text/wp a_t");?><?php } ?>
 
-<style id="diy_style" type="text/css">#portal_block_14 {  margin-top:7px !important;margin-right:5px !important;margin-bottom:7px !important;margin-left:5px !important;}#portal_block_15 .dxb_bc {  font-size:16px !important;margin:5px !important;}#portal_block_14 .dxb_bc {  font-size:16px !important;}#portal_block_15 {  margin-top:7px !important;margin-right:5px !important;margin-bottom:7px !important;margin-left:5px !important;}</style>
+<style id="diy_style" type="text/css">#portal_block_14 { margin-top:7px !important;margin-right:5px !important;margin-bottom:7px !important;margin-left:5px !important;}#portal_block_15 .dxb_bc { font-size:16px !important;margin:5px !important;}#portal_block_14 .dxb_bc { font-size:16px !important;}#portal_block_15 { margin-top:7px !important;margin-bottom:7px !important;margin-right:5px !important;margin-left:5px !important;}</style>
 
 <?php if(empty($gid)) { ?>
 <div class="wp">

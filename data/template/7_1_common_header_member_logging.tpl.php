@@ -1,8 +1,8 @@
 <?php if(!defined('IN_DISCUZ')) exit('Access Denied'); 
 0
-|| checktplrefresh('./template/default/common/header.htm', './template/default/common/header_common.htm', 1430378424, '1', './data/template/7_1_common_header_member_logging.tpl.php', './template/default', 'common/header_member_logging')
-|| checktplrefresh('./template/default/common/header.htm', './template/default/common/header_qmenu.htm', 1430378424, '1', './data/template/7_1_common_header_member_logging.tpl.php', './template/default', 'common/header_member_logging')
-|| checktplrefresh('./template/default/common/header.htm', './template/default/common/pubsearchform.htm', 1430378424, '1', './data/template/7_1_common_header_member_logging.tpl.php', './template/default', 'common/header_member_logging')
+|| checktplrefresh('./template/default/common/header.htm', './template/default/common/header_common.htm', 1431960094, '1', './data/template/7_1_common_header_member_logging.tpl.php', './template/default', 'common/header_member_logging')
+|| checktplrefresh('./template/default/common/header.htm', './template/default/common/header_qmenu.htm', 1431960094, '1', './data/template/7_1_common_header_member_logging.tpl.php', './template/default', 'common/header_member_logging')
+|| checktplrefresh('./template/default/common/header.htm', './template/default/common/pubsearchform.htm', 1431960094, '1', './data/template/7_1_common_header_member_logging.tpl.php', './template/default', 'common/header_member_logging')
 ;?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">

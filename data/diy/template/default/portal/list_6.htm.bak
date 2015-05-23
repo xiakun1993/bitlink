@@ -1,7 +1,0 @@
-{subtemplate common/header}
-<style id="diy_style" type="text/css"></style>
-<style id="diy_style" type="text/css"></style>
-<div id="ct" class="ct2 wp cl">
-		<!--[diy=diy1]--><div id="diy1" class="area"><div id="framehL4k1D" class="frame move-span cl frame-1"><div class="title frame-title"><span class="titletext">1¿ò¼Ü</span></div><div id="framehL4k1D_left" class="column frame-1-c"><div id="framehL4k1D_left_temp" class="move-span temp"></div><!--{block/35}--></div></div></div><!--[/diy]-->
-</div>
-{subtemplate common/footer}
